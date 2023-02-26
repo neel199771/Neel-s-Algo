@@ -9,6 +9,8 @@ Neel's Algo is a leading indicator for buying and selling stocks with TradingVie
  ██║░╚███║███████╗███████╗███████╗░░░██████╔╝   ██║░░██║███████╗╚██████╔╝╚█████╔╝
  ╚═╝░░╚══╝╚══════╝╚══════╝╚══════╝░░░╚═════╝░   ╚═╝░░╚═╝╚══════╝░╚═════╝░░╚════╝░
 
+
+
 ![image](https://user-images.githubusercontent.com/65644206/221404186-0ffe259c-db79-4890-bc8b-54b1546cfd99.png)
 
 Strategy Buy Sell
