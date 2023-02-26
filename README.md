@@ -4,7 +4,8 @@ Neel's Algo is a leading indicator for buying and selling stocks with TradingVie
 # Profit Booking Example (Almost 500%)
 ![image](https://user-images.githubusercontent.com/65644206/221404503-e08aee87-48db-4518-b73b-e443f753a417.png)
 
-# Good For Option buying
+# Good For Option buying/ selling 
+(Here Selling is shown In Adani Enterpise so u can buy PE in options of montly expiry)
 ![image](https://user-images.githubusercontent.com/65644206/221404617-564728e9-fa82-4b41-9e06-59f8d2276bec.png)
 
 # Platrform
